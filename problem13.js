@@ -17,5 +17,5 @@ for(let j =0; j<arr.length;j++)
 }
 console.log("Two New Tasks Added ==>",arr1)
 
-arr1[arr1.length-1]=2 
+arr1[arr1.length-1]= "homework" 
 console.log(arr1)
